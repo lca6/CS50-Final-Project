@@ -1,0 +1,55 @@
+h1 {
+    text-align: center;
+}
+
+main {
+    background-color: white;
+    width: 100%;
+    border: 10px solid black;
+    padding: 5%;
+    margin: auto;
+    line-height: 250%;
+    font-size: 26px;
+}
+
+
+
+#textarea {
+    width: 100%;
+    height: 200px;
+    padding: 12px 20px;
+    line-height: 170%;
+}
+
+#submitButton {
+    margin-left: 50%;
+}
+
+
+
+.error_messages {
+    color: red;
+    font-size: 20px;
+    display: none;
+}
+
+.highlight-orange {
+    background-color: orange;
+}
+
+.highlight-green {
+    background-color: chartreuse;
+}
+
+.highlight-blue {
+    background-color: cyan;
+}
+
+.highlight-pink {
+    background-color: violet;
+}
+
+.hide {
+    background-color: white;
+    color: white;
+}

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head><title>Assisted Reading</title></head>
+
+    {% extends "layout.html" %}
+
+    {% block text %}
+        <script id="readingSpeed">{{ speed }}</script>
+        <script id="highlighterColor">{{ highlighter_color }}</script>
+        <main style="font-size: {{ font_size }}px;">
+            {{ text }}
+        </main>
+    {% endblock %}
+</html>
