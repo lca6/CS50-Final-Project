@@ -6,8 +6,6 @@
 
 https://www.youtube.com/watch?v=f9GJKFQHFk0
 
-![text page with a word highlighted and previous words hidden (image)](images/highlighted-text.png)
-
 
 
 ## Description
@@ -58,8 +56,6 @@ Underneath the textarea are dropdown menus where the user selects their desired 
 At the very bottom is a series of radio buttons to select a highlighter color.
 
 The "Ready to go" button at the top of the page submits the form.
-
-![homepage (image)](images/index.png)
 
 
 
@@ -179,6 +175,6 @@ main {
 
 This project is the Minimum Viable Product as of yet so it is still a work-in-progress.
 
-*Assisted Reading* may be developed into a Chrome extension and a feature will be added to give the user the option to hide previous words or keep them visible.
+*Assisted Reading* may be developed into a Chrome extension and a feature may be added to give the user the option to hide previous words or keep them visible.
 
 ---
